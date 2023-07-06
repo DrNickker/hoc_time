@@ -2,12 +2,14 @@ body {
   font-family: 'Mina', sans-serif;
 }
 
+
 #root {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
 }
+
 
 .video {
   width: 460px;
@@ -16,6 +18,7 @@ body {
   background: #000000;
 }
 
+
 .video iframe {
   display: block;
   margin: 0 auto;
@@ -23,6 +26,7 @@ body {
   height: 240px;
   border: none;
 }
+
 
 .video .date {
   margin: 6px 0 0 0;
