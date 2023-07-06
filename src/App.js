@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
-import DateTime from './DateTime'
-import DateTimePretty from './DateTimePretty'
+import DateTimePretty from './components/DateTimePretty'
 
 function Video(props) {
     return (
